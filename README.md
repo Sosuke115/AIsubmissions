@@ -1,3 +1,5 @@
+
+<!-- 
 4_board_3_narabe
 5_board_4_narabe
 7_board_5_narabe
@@ -38,3 +40,18 @@ python 7_5.py
 action = random_player.act(b.board.copy())
 を有効にし、366行目をコメントアウトします。その後331〜333行目から対戦させたいランダムプレイヤーを選び、同様に実行することで対戦が見られます。
 3,4目並べを実行したい時は、5_4.pyや4_3.pyにて同様な操作をしてください。
+
+
+
+-->
+
+# Gomoku AI 
+ 
+Gomoku AI for B3 experiment
+ 
+
+
+# Author
+ 
+* Sosuke
+* Twitter : https://twitter.com/ponyo_ponyo115
