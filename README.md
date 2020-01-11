@@ -47,7 +47,7 @@ action = random_player.act(b.board.copy())
 
 # Gomoku AI 
  
-Gomoku AI for B3 experiment
+Gomoku DQN AI for B3 experiment
  
 
 
