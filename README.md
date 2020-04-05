@@ -54,4 +54,5 @@ Gomoku DQN AI for B3 experiment
 # Author
  
 * Sosuke
+* website : https://sosuke115.github.io
 * Twitter : https://twitter.com/ponyo_ponyo115
